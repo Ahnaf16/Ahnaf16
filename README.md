@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahnaf Sakil
-- 👀 I’m interested in App devlopment on Flutter
+- 👀 I’m interested in App development on Flutter
 - 🌱 I’m currently learning Flutter and Dart
 - 📫 How to reach me - ahnafsakil9@gmail.com
 

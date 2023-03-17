@@ -42,3 +42,7 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-B7472A?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-e37200.svg?style=for-the-badge&logo=Blender&logoColor=white)
+
+#### Profile Visits
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ahnaf16.visitor-badge&left_color=blue&right_color=gray)

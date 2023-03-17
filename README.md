@@ -46,3 +46,5 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 #### Profile Visits
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ahnaf16.visitor-badge&left_color=blue&right_color=gray)
+
+![Ahnaf Sakil's github stats](https://github-readme-stats.vercel.app/api?username=Ahnaf16&count_private=true&theme=tokyonight&hide=contribs,prs)

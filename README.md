@@ -45,12 +45,43 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 
 ---
 
-#### Profile Visits
+<details open>
+<summary>
+<h> My projects</h>
+</summary>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ahnaf16.visitor-badge&left_color=blue&right_color=gray)
+<h2> GNG Online Shopping App
+<a href="https://play.google.com/store/apps/details?id=com.gng.android"> <img src="https://static.wikia.nocookie.net/google/images/2/24/Play_Store.png/revision/latest?cb=20221106121609" alt="gng" width =20></a>
+</h2>
+
+<img src="https://play-lh.googleusercontent.com/Zz5cN3ukbXYOPijn28zhn94VXlwMFP868cOftvkjSJWv_BJ9-2Uachu3CICgLztYzwY=s48-rw" alt="gng">
+
+<h2> KRY INTERNATIONAL
+<a href="https://play.google.com/store/apps/details?id=com.kry.intl"> <img src="https://static.wikia.nocookie.net/google/images/2/24/Play_Store.png/revision/latest?cb=20221106121609" alt="gng" width =20></a>
+</h2>
+
+<img src="https://play-lh.googleusercontent.com/7x7ipa-QON2B0oruutqcOjwmLLhELZSnIzAKoplbRMQ7oeaHzJFXEtKRD92T5P4mRo0=w240-h480-rw" alt="kry"  width =50>
+
+<h2> Merchant Panel
+<a href="https://github.com/Ahnaf16/merchant_panel"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gng" width =25></a>
+</h2>
+
+<img src="https://github.com/Ahnaf16/merchant_panel/blob/main/assets/logo/logo_l.png?raw=true" alt="kry"  width =150>
+
+</details>
+
+---
+
+<details open>
+<summary>
+More About ME
+</summary>
+<br>
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=Ahnaf16&show_icons=true&layout=compact&exclude_repo=ahnaf16.github.io,admin_panal)
 
 ![Ahnaf Sakil's github stats](https://github-readme-stats.vercel.app/api?username=Ahnaf16&show_icons=true&count_private=true&theme=city_lights )
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahnaf16)
+
+</details>

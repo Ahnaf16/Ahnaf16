@@ -45,7 +45,7 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 
 ---
 
-<details open>
+<details>
 <summary>
 <h> My projects</h>
 </summary>
@@ -72,7 +72,7 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 
 ---
 
-<details open>
+<details>
 <summary>
 More About ME
 </summary>

@@ -11,7 +11,6 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 ---
 
 :hearts: &emsp;I enjoy programming and sharing knowledge \
-:computer: &emsp;Most used line of code `print("hello world");` \
 🤔 &emsp;I’m looking for people who can help me with Outstanding Project ideas and executions.\
 :e-mail: &emsp;How to reach me: ahnafsakil16@gmail.com.
 

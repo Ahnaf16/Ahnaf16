@@ -2,7 +2,7 @@
 
 ## I'm Ahnaf Sakil Mahmud
 
-I create modern, reactive apps using **Flutter** for Android and iOS. I prefer **Riverpod** for my State Management solution. I'm experienced in both Frontend and Backend development. **Firebase** is my preferred backend. I also have experience with **RestApi**, third-party SDKs: Bkash, Strip etc.
+I create modern, reactive apps using **Flutter** for Android and iOS. I prefer **Riverpod** for my State Management solution. I'm experienced in both Frontend and Backend development. **Firebase** is my preferred backend. I also have experience with **RestApi**, and third-party SDKs: Bkash, Strip, etc.
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahnaf.coom/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-sakil-8b008622b)
@@ -19,7 +19,7 @@ I create modern, reactive apps using **Flutter** for Android and iOS. I prefer *
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Firebase](https://img.shields.io/badge/Appwrite-%23039BE5.svg?style=for-the-badge&logo=Appwrite&logoColor=white)
